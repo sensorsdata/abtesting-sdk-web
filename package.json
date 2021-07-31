@@ -1,6 +1,6 @@
 {
     "name": "abtesting-sdk-web",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "神策 abtesting sdk",
     "main": "",
     "scripts": {
