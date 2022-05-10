@@ -12,7 +12,7 @@ A/B Testing SDK 是一款用于 A/B 测试的 SDK。
 
 ## 集成文档
 
-请参考神策官网 [集成文档](https://manual.sensorsdata.cn/sa/latest/tech_ab_testing-17569307.html)。
+请参考神策官网 [集成文档](https://manual.sensorsdata.cn/abtesting/latest/web-sdk-a-b-testing-44270007.html)。
 
 ## 讨论
 
@@ -36,7 +36,7 @@ A/B Testing SDK 是一款用于 A/B 测试的 SDK。
 
 ## License
 
-Copyright 2015－2020 Sensors Data Inc.
+Copyright 2015-2022 Sensors Data Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
