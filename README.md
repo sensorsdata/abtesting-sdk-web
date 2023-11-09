@@ -8,7 +8,7 @@
 
 ## SDK 简介
 
-A/B Testing SDK 是一款用于 A/B 测试的 SDK。
+# 该仓库已不再更新，如需最新 AB 插件请查看 https://github.com/sensorsdata/sa-sdk-javascript/tree/master/dist/web/plugin/abtesting-sdk-web
 
 ## 集成文档
 
